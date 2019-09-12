@@ -20,10 +20,9 @@
 ## Assessment Criteria
 I will be grading your assessments on two criteria:
 1. **Clarity of Communication**
-  
   I expect you to write in complete sentences while paying close attention to grammar and spelling. For our assessments, how you communicate is just as important as _what_ you communicate. Each of the questions above can be answered in 1-3 sentences. They should not be much longer than that. If you are taking much longer to get your point across, it is probably an indicator that you have some more studying to do. 🤓
+
 2. **Accuracy of Your Mental Model**
-  
   I am not testing your ability to memorize definitions that come from a book. By answering these questions in your own words, you are communicating to me that you understand the _what_ and _why_ behind each of these key concepts. Remember: **Your words are your world.** Use the vocabulary of the unit to communicate with accuracy and precision.
 
 ## Due Date
