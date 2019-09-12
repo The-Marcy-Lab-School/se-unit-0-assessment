@@ -1,11 +1,7 @@
 # Unit 0 Lesson 1 Assessment - Introduction to Git and GitHub
 
 ## Directions
-1. Fork this repository.
-2. Clone it to your local repository.
-3. Change directories into the `unit-0-assessment/assessments/` directory.
-4. Inside of this directory, create a new markdown file that you will use to write your question responses. Use the naming convention `firstname_git_assessment.md`. Be sure to use markdown to nicely format your questions and responses.
-5. When you are finished with the assessment and are confident in your answers stage and commit your changes. Then, push up your changes to your own fork of the `unit-0-assessment/` directory. Lastly, open a pull request. This will notify me that you have completed the exam.
+Find this assignment on [Google Classroom](https://classroom.google.com/u/0/c/Mzc0ODUwNjc2ODNa/a/NDE5MTY1OTM3ODda/details). Answer the following questions and submit them in a Google Doc. 
 
 ## Assessment Questions
 * What is the purpose of Git?
