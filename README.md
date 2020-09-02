@@ -1,7 +1,10 @@
 # Unit 0 Lesson 1 Assessment - Introduction to Git and GitHub
 
 ## Directions
-Find this assignment on [Google Classroom](https://classroom.google.com/u/0/c/Mzc0ODUwNjc2ODNa/a/NDE5MTY1OTM3ODda/details). Answer the following questions and submit them in a Google Doc. 
+Answer the following questions and write down your responses in the `answers.md` file. Be sure to practice good markdown formatting. You must commit and push your changes in order to submit this assignment. You can either:
+
+1. Edit the `answers.md` file using the Github UI in the browser, **OR**
+2. Clone down this repository to you local machine, make the appropriate changes to `answers.md`, then commit and push your changes back up to Github.
 
 ## Assessment Questions
 * What is the purpose of Git?
@@ -20,6 +23,3 @@ I will be grading your assessments on two criteria:
 
 2. **Accuracy of Your Mental Model**  
   I am not testing your ability to memorize definitions that come from a book. By answering these questions in your own words, you are communicating to me that you understand the _what_ and _why_ behind each of these key concepts. Remember: **Your words are your world.** Use the vocabulary of the unit to communicate with accuracy and precision.
-
-## Due Date
-Wednesday, September 18 at 5PM
