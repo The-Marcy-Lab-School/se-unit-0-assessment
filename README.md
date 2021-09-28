@@ -14,9 +14,9 @@ You must commit your changes and _submit the URL of this remote repo through Can
 * What is a _commit_ and how does this differ from saving a document or file?
 * What does the `git add` command do?
 * What does the `git push` command do?
-* What does it mean to _fork_ a repository?
 * What does the `git clone` command do and why would we ever use it?
-
+* What does it mean to _fork_ a repository?
+* What does it mean to create a branch and how is it different from forking?
 
 ## Assessment Criteria
 I will be grading your assessments on two criteria:
