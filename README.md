@@ -6,6 +6,7 @@ Answer the following questions and write down your responses in the `answers.md`
 1. Edit the `answers.md` file using the Github UI in the browser, **OR**
 2. Clone down this repository to you local machine, make the appropriate changes to `answers.md`, then commit and push your changes back up to Github.
 3. Double check that your Markdown formatting appears correctly in your remote repo.
+4. Submit the URL of your repo to Canvas.
 
 You must commit your changes and _submit the URL of this remote repo through Canvas_ in order to complete this assessment. 
 
