@@ -1,4 +1,4 @@
-# Unit 0 Lesson 1 Assessment - Introduction to Git and GitHub
+# Unit 0 Assessment - Git and GitHub
 
 ## Directions
 Open the `assessment.md` file and answer each question. **Be sure to practice good markdown formatting**. You can either:
